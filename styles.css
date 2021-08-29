@@ -1,0 +1,86 @@
+body {
+    background-color:black;
+    color: #ddf3ff;
+    background-image: url(/michael-dziedzic-qDG7XKJLKbs-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 35px;
+    margin: 22px;
+    
+}
+
+.menu {
+    margin: 23px;
+    margin-top: 30px;
+}
+
+.about {
+
+}
+
+.contact {
+    margin-left: 230px;
+    margin-right: 120px;
+}
+
+.spash-page {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.title {
+    margin: 30px;
+    display: flexbox;
+    
+}
+
+.intro-text {
+    text-size: 43px;
+    margin-left: 43px;
+    margin-bottom: 20px;;
+}
+
+.title-text {
+     font-size: 107px;
+
+}
+
+.moto-text {
+    font-size: 43.3px;
+    text-align: right;
+}
+
+button {
+    margin-right: 0px;
+    margin-left: 550px;
+    margin-top: 30px;px;
+
+    width: 220px;
+    height: 100px;
+    font-size: larger;
+    background-color:darkorange;
+    border-radius: 7px;
+}
+
+span {
+    margin: 12px;
+    
+}
+/* .menu {
+    display: flex;
+    ;
+    
+}
+
+span {
+    align-items: right;
+    justify-content: flex-end
+} */
+
+
+
