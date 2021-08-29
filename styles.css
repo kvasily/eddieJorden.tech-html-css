@@ -4,6 +4,7 @@ body {
     background-image: url(/michael-dziedzic-qDG7XKJLKbs-unsplash.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    
 }
 
 header {
@@ -11,6 +12,15 @@ header {
     justify-content: flex-end;
     font-size: 35px;
     margin: 22px;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0fa,
+        0 0 82px #0fa,
+        0 0 92px #0fa,
+        0 0 102px #0fa,
+        0 0 151px #0fa;
     
 }
 
@@ -42,35 +52,100 @@ header {
 .intro-text {
     text-size: 43px;
     margin-left: 43px;
-    margin-bottom: 20px;;
+
+    
+    
 }
 
 .title-text {
      font-size: 107px;
+     color: #fff;
+     text-shadow:
+       0 0 7px #fff,
+       0 0 10px #fff,
+       0 0 21px #fff,
+       0 0 42px #0fa,
+       0 0 82px #0fa,
+       0 0 92px #0fa,
+       0 0 102px #0fa,
+       0 0 151px #0fa;
+   }
 
-}
+
 
 .moto-text {
     font-size: 43.3px;
     text-align: right;
-}
+    
+    
+    color: #fff;
+    text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+  }
+    
+
 
 button {
     margin-right: 0px;
-    margin-left: 550px;
+    margin-left: 580px;
     margin-top: 30px;px;
 
-    width: 220px;
-    height: 100px;
+    width: 160px;
+    height: 87px;
     font-size: larger;
     background-color:darkorange;
-    border-radius: 7px;
+    border-radius: 12px;
+    color: #fff;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0fa,
+        0 0 82px #0fa,
+        0 0 92px #0fa,
+        0 0 102px #0fa,
+        0 0 151px #0fa;
+    box-shadow: 
+        0 0 .2rem #fff,
+        0 0 .2rem #fff,
+        0 0 2rem #bc13fe,
+        0 0 0.8rem #bc13fe,
+        0 0 2.8rem #bc13fe,
+        inset 0 0 1.3rem #bc13fe;
 }
+
 
 span {
     margin: 12px;
     
 }
+
+.eddie-image {
+    display: flex;
+    align-items: flex-end;
+}
+
+img {
+    width:280px;
+    align-items: flex-end;
+    margin-left: 522px;
+    margin-top: 54px;
+    border-radius: 12px;
+    color: #fff;
+    box-shadow: 0 0 .2rem #fff,
+    0 0 .2rem #fff,
+    0 0 2rem #bc13fe,
+    0 0 0.8rem #bc13fe,
+    0 0 2.8rem #bc13fe,
+    inset 0 0 1.3rem #bc13fe;
+
 /* .menu {
     display: flex;
     ;
